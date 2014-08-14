@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Administration.cs" />
     <Compile Include="BuildInOven.cs" />
     <Compile Include="CondensationDryer.cs" />
     <Compile Include="DimensionAndEnergy.cs" />
